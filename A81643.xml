@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doubtfull almanack. Or, A very suspitious presage of great calamities yet to ensue. By G. Wither.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81643</idno>
+            <idno type="STC">Wing D1956A</idno>
+            <idno type="STC">Thomason E370_23</idno>
+            <idno type="STC">ESTC R201298</idno>
+            <idno type="EEBO-CITATION">99861821</idno>
+            <idno type="PROQUEST">99861821</idno>
+            <idno type="VID">113966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113966)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E370[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doubtfull almanack. Or, A very suspitious presage of great calamities yet to ensue. By G. Wither.</title>
+                  <author>Wither, George, 1588-1667,</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Not in fact by George Wither.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 12 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wither, George, 1588-1667 --  Parodies, imitations, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:113966:1"/>
+            <pb n="1" facs="tcp:113966:1" rendition="simple:additions"/>
+            <head>THE DOUBTFULL ALMANACK. OR, A very ſuſpitious preſage of great <hi>Calamities</hi> yet to enſue.</head>
+            <byline>
+               <hi>By</hi> G. WITHER.</byline>
+            <p>
+               <seg rend="decorInit">W</seg>Here the Head is not obeyed, it is in vain to ſeek remedies: that State muſt needs fall in peeces, where out of point of Conſcience the ſoveraign powers are maligned, for no other thing more then for preſſing Conformity to whol<g ref="char:EOLhyphen"/>ſome commands: It is held a bad ſigne of reconciliation, when after the long feude between two enimous parties there ari<g ref="char:EOLhyphen"/>ſeth a third, a perfect neuter equally diſtant from both, ſtill favouring the weakeſt, till at length it ſelf becomes the ſtrongeſt; difference is ſooner comprimed between two then three: the third ſtanding as a partition wall of purpoſe that the other ſhould not joyne. It is obſer<g ref="char:EOLhyphen"/>ved by <hi>Joſephus,</hi> the great Cronographer of the Jews, that in Jeruſa<g ref="char:EOLhyphen"/>lem (when the time of its long before denounc'd deſtruction by our Saviour drew neer) there were three Leaders of that civill and la<g ref="char:EOLhyphen"/>mentable diſſention amongſt them: the City being divided into the juriſdiction of the Temple, the high and the lowe Town; it is record<g ref="char:EOLhyphen"/>ed by the ſame <hi>Joſephus,</hi> that the Governour of the Temple, and Cap<g ref="char:EOLhyphen"/>tain of the Chief Town had often times come to an agreement, had it not been for him of the Baſe Town; in like manner that the Chief<g ref="char:EOLhyphen"/>tains of both the upper and lower Towns had eaſily come to reaſon, had not the Captain of the Temple ever oppos'd: for ſuch is the na<g ref="char:EOLhyphen"/>ture of Civill diſtraction where three are intereſt in it, there will ever impede the correſponding of the other two; leſt they ſouldred into
+<pb n="2" facs="tcp:113966:2"/>one ſhould charge him, <hi>vi unitâ:</hi> therefore keeping them enemies, he is ſure of ſubſiſting, if not of gaining; but once made friend he is cer<g ref="char:EOLhyphen"/>tain to be reduc'd, if not ruin'd. To ſet the ſtaffe at our own doore, and to come a little nearer home: At the firſt riſing of the thrice un<g ref="char:EOLhyphen"/>happy diſſenſion in <hi>England</hi> for a long ſeaſon, there was no talk but of two parties ſtanding upon the punctilioes of their own Rights, that of Kings, challenging the full extent of his Prerogative, th'other of the Parliament, maintaining the Petition of Right, and Priviledge of Parliament; And although theſe had ſome ſharp encounters, yet were not good men out of all hope of reconciling them; as witneſſe the great hopes (yea almoſt aſſurances) that to judicious men did ap<g ref="char:EOLhyphen"/>pear of it twice at <hi>Oxford,</hi> and far more clearly for a good many daies at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge;</hi> but when once the Independent party burſt out, and ſung no note but a Baſe; when they came not onely to preſence, but to precedencie, yea preſidencie: <hi>Deus <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> incr<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uil malum!</hi> to what a height ſwell'd the tide of our miſeries: <hi>Quo cruore madebant omnita!</hi> what blood hath been ſpilt? how is peace not onely deferr'd, but, is ſome are jealous, even delaid: ſo that we may but truly ſay with Philoſophers, <hi>Omnis Ecclyſis fit interpoſitione tertii:</hi> The matter is but marr'd (if not quite deſtroy'd) by the intervening of a third. Whe<g ref="char:EOLhyphen"/>ther this partie hath not tried <hi>le ſec et le vert</hi> (as the Frenchman ſaith) what lies in them both in Countreys, Towns, and Citie. <hi>Coetera ſilen<g ref="char:EOLhyphen"/>tin praeterienda,</hi> I dare go no higher, to keep the wheel off this factious Civill broyls ſtill afoot, let thoſe enquire it who by their daily un<g ref="char:EOLhyphen"/>doing have moſt reaſon to reſent it.</p>
+            <p>The next <hi>malum omen</hi> which offers it ſelf as <hi>Avis ſiniſtra,</hi> an un<g ref="char:EOLhyphen"/>luckie bird auguring the continuation, if not an increaſe of our mi<g ref="char:EOLhyphen"/>ſeries, is, that Sects and Schiſmes, <hi>Abſolon</hi> like, ſit at the entrance of the gate, courting, enticing, alluring, and fawning upon all paſſen<g ref="char:EOLhyphen"/>gers to the intent to win them to her, and to wear her livery. And be<g ref="char:EOLhyphen"/>cauſe I have toucht upon <hi>Abſolou,</hi> let us ſee if his proceedings in the at chievement of his wicked deſigned purpoſe, from the beginning to the end of it, doth not, <hi>per omnia quadrare,</hi> up and down the ſame; with the courſe of Hereticks and Schiſmaticks in theſe dayes; let us then ſcan his actions, and take his carriage apeeces: <hi>Abſolon</hi> not ſo foule within, but as fair without; proper of perſonage, beautifull of viſage, quaint of language, affable in carriage, pitifull and compaſſionate toward Suiters in his uſage: he ſits at the entrance of the Kings gate,
+<pb n="3" facs="tcp:113966:2"/>every man may have acceſſe to him. If ſome <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> daunt<g ref="char:EOLhyphen"/>ed with the preſence of his gallant feature, glittering apparell, or con<g ref="char:EOLhyphen"/>ſideration of his high dignity, as being not onely King <hi>Davids</hi> Son, but <hi>Heir apparent to the Crown,</hi> why <hi>Abſolon</hi> will call him to him, ask him his matter, and that he may have him the readier, he offers him his hand to kiſſe, the better to encourage him, he would hear his cauſe out, and whatſoever it were in its own nature the Plaintiffe ever de<g ref="char:EOLhyphen"/>parted from <hi>Abſolon</hi> poſſeſt with the juſtneſſe of it, and that it might have paſſed on his ſide, had not King <hi>David</hi> and his Officers of Ju<g ref="char:EOLhyphen"/>ſtice been in fault through their negligence, if not worſe: <hi>Thy cauſe is good,</hi> ſaith he, paſſing good queſtionleſſe, <hi>but there is none deputed by the King to bear thee. By the King,</hi> oh what a blow doth <hi>Abſolon</hi> give his Father here! he inſinuates the King to be wholly careleſſe of the welfare of his Subjects, although Prince was never more tender; he endeavours to make the world beleeve, that he cared not which end went forward with them: but were <hi>Abſolon in ſolio</hi> had he to do as he ſhould (leaſtwiſe as he would) matters ſhould not be ſo carried: <hi>Quia ſibi vult Abſolon?</hi> what means <hi>Abſolon</hi> by all this? Surely to withdraw the heart of the common people from his Father, and to faſten them upon himſelf; knowing full well, that if he could be maſter of their affections, he ſhould ſoon have both their hands and purſes; that be<g ref="char:EOLhyphen"/>ing the load-ſtone that drew the reſt: <hi>Abſolon</hi> was reaſonable well aſ<g ref="char:EOLhyphen"/>ſured of that; what's behinde? A fit place, and that ſomewhat remote from Court is to be thought on, where he may have ſome time and opportunitie to draw to a head, for neer <hi>David</hi> that could not ſo well be done, he having too many ſage and truſtie Worthies about him, that would ſoon cruſh his cockatrice in the ſhell; <hi>Abſolon</hi> hath a clue for this, a way to bring't to paſſe, the better to effect it undeſcride, he varniſheth with Religion; in all humble wiſe he acquaints his Fa<g ref="char:EOLhyphen"/>ther with a Vow he had made of ſuch a ſacrifice, that he would offer unto God in caſe he ſhould ſee his Fathers face in peace (after his ba<g ref="char:EOLhyphen"/>niſhment for his unnatural murther of his brother <hi>Ammon</hi>) he earneſt<g ref="char:EOLhyphen"/>ly ſollicites leave for the accompliſhment of this ſacrifice in Hebron, King <hi>David,</hi> (well meaning <hi>David</hi>) as gladly condeſcends to the motion as twas him crav'd (a Prince a great while ſince <hi>Davids</hi> daies did himſelfe the greateſt injurie when he intended to his people the greateſt boon) joyfull that his Son of a murtherer was become a ſa<g ref="char:EOLhyphen"/>crificer: diſmiſſeth him to his ſacrifice, not onely with a conſent, but
+<pb n="4" facs="tcp:113966:3"/>a bleſſing: <hi>The Lord God accept thy ſacrifice: Abſolon</hi> hath his aime both to King and people, forthwith he mounts his Chariot, and with a train but of fiftie Laques, and two hundred choſen men out of Jeru<g ref="char:EOLhyphen"/>ſalem he ſpeeds unto <hi>Hebron:</hi> there indeed he ſacrificeth, yet ſends to Giloh to <hi>Achitophel</hi> while he offered; nay the ſame Scripture obſer<g ref="char:EOLhyphen"/>veth, 2 <hi>Sam.</hi> 15.12. <hi>That during his ſacrificing the conſpiracie grew ſtrong.</hi>
+            </p>
+            <p>It is recorded of one of the moſt politick Kings that ever reigned in <hi>France,</hi>
+               <note place="margin">
+                  <hi>Lewis</hi> the 11.</note> that he ever held his moſt ſerious and important conſultati<g ref="char:EOLhyphen"/>ons and ever expedited his weightieſt affairs in a Monaſtery; when the world thought that the good King went ſo often thither for no other reaſon but his Souls health, <hi>viz.</hi> to make his Confeſſion, receive Abſolution, hear Maſſe, receive the Sacrament, and the like, (which the ſimple vulgar thought the onely buſineſſe of repairing unto Reli<g ref="char:EOLhyphen"/>gious Houſes) King <hi>Lewis</hi> was contriving how to undermine the Con<g ref="char:EOLhyphen"/>ſtable of <hi>France,</hi> who put him in fear of joyning either with the King of <hi>England Edward</hi> the fourth, or <hi>Charles</hi> Duke of <hi>Burgundie,</hi> both them his profeſſed Enemies. <hi>Lewis</hi> in his Monaſtery ſpent his Canonicall houres, in projecting ſome way to caſt a bone between his two confe<g ref="char:EOLhyphen"/>derate Enemies, to ſet them at odds one againſt the other, the better to draw one of them, <hi>viz. Edward</hi> of England into League and Amity with him, which he effected both to the utter confuſion of the <hi>Conte</hi> St. <hi>Paul</hi> the Conſtable; and to the ſmall profit of the Duke of <hi>Burgundy:</hi> theſe, and the like, were the Beads that he ſaid daily over during his abode in his Monaſtery. Oh nothing is ſo favourable for the covert of black deſignes as ſome exerciſe of Religion: be ſure that be ſtrongly pretended when ye mainly intend this; and all's well. To act devotion whileſt one plots villany, frees the deſigne not onely from ſuſpition, but procures a good opinion to it: men have been, are, and ever will be taken with fair out-ſides: they not being able (for the moſt part) to ſee clear through this glaſſer <hi>(Sed haec per tranſennam)</hi> by the by this. Let us return to our matter. And having ſeen <hi>Abſolon</hi> act his firſt part, let us ſee how ſte behaves himſelf in the ſecond: why now knowing his own ſtrength, having well conſidered the concourſe of people to him, view'd their number, obſerved their qualitie, he takes off the mask, ſhews himſelf to the world in his own ſhape, cauſeth it to be proclaim<g ref="char:EOLhyphen"/>ed throughout the Land by ſound of Trumpet, that <hi>Abſolon</hi> was King in <hi>Hebron.</hi>
+            </p>
+            <p>
+               <hi>David</hi> perceives too late, that <hi>Abſolons</hi> ſacrifice was no peace-offering
+<pb n="5" facs="tcp:113966:3"/>upon the receit of the news, and true intelligence of the ſtrength of the rebellion; he is fain to flie for't, leaving Jeruſalem to a new Maſter, who is not long before he takes poſſeſſion of it; all men flocking to him, and worſhiping a riſing Son, except <hi>Sadok,</hi> and <hi>Abiathar,</hi> Gods chief Prieſt in ordinarie, and ſome other, thoſe ſtuck to <hi>David:</hi> al<g ref="char:EOLhyphen"/>though little reaſon in humane judgement for it, yet to <hi>David</hi> they adhere: theſe were orthodox Seers, call in to Gods vineyard, Gods way, theſe men would not countenance rebellion with their preſence, they will hide for it rather; they knew that although it were an ill weed, and grew apace, yet it is not of long continuance, but is at length cut down, theſe two Prieſts of God with their Sons will not ap<g ref="char:EOLhyphen"/>plaud it, though triumphing. But not to digreſſe from our Story.</p>
+            <p>
+               <hi>Abſolon</hi> makes a glorious entrance into Jeruſalem, there takes poſ<g ref="char:EOLhyphen"/>ſeſſion of the Palace royall; nay to make known to the world in what vile eſteeme he held his Father, and fearing leſt men ſhould not take notice enough of it, he defiles his Fathers Concubines in the open view of Jeruſalem: and that all men might know that he had as good a will to deſpoil his Father of his life, as of his honour; he marcheth in<g ref="char:EOLhyphen"/>to the Field with a puiſſant Army, and give him but a pitch'd battel both for King, and <hi>David;</hi> where had not God miraculouſly ſtood to him, <hi>Abſolon</hi> of a traiterous, perfidious Rebell, had become a rightfull King. I have done with the example, and ſhould come unto the Pa<g ref="char:EOLhyphen"/>rallel: were it not that one thing I obſerve in the Cataſtrophe of this memorable Story, will not let me ſlip over it before I have toucht it: <hi>Abſolon</hi> is routed, yea I may juſtly ſpeak it, hang'd up for his unna<g ref="char:EOLhyphen"/>turall and undutifull rebellion, by God himſelf; his chiefeſt orna<g ref="char:EOLhyphen"/>ment ſerving for his halter: yet <hi>David</hi> by his deſerved deſtruction was not onely enſur'd of his life, but reſtored to his Crown and priſtine dignity: one would think that <hi>David</hi> (<hi>Si quis mortalium alius,</hi> if any man living) had no cauſe to be ſorie for his riddance out of the way, and was he not? ſo it ſhould ſeem by that moſt heavie, dolorous, and pathetick dittie that he breath'd forth at the tydings of his fall: <hi>O Abſolon, my ſon, my ſon, would to God I had dyed for thee, O Abſolon my ſon, my ſon. Abſolon</hi> that formerly murthered one of his brothers (and that at a feaſt in his own houſe) <hi>Abſolon</hi> that had endeavoured, all in him, to ſteal the heart of his people from him, by ſlandering his Govern<g ref="char:EOLhyphen"/>ment, and promiſing mountains if he could but once get to the helm; (a wile much practiſed amongſt us within theſe few yeers.) <hi>Abſolon</hi>
+               <pb n="6" facs="tcp:113966:4"/>that had in the clear day light openly defied his Fathers <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; <hi>Ab<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> that had no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely privately conſpired to take off his Crown, but openly ſought his life in a bloodie battell. <hi>Abſolon,</hi> who built his ima<g ref="char:EOLhyphen"/>ginary greatneſſe upon no other foundation then the ruine of his Fa<g ref="char:EOLhyphen"/>ther: yet the death of this <hi>Abſolon</hi> doth <hi>David</hi> take ſo ill, that his vi<g ref="char:EOLhyphen"/>ctory is no victory with him, becauſe he is not alive: nay he preferres his own life to his own: <hi>Would God I had dyed for thee, O Abſolon my ſon, my ſon.</hi> Beſide <hi>David</hi> could not chooſe but apprehend <hi>digitum Dei,</hi> Gods ſignall juſtice upon his Son for his notorious rebellion, and his marvellous mercie toward him in his preſervation. <hi>Cui igitur in lacry<g ref="char:EOLhyphen"/>mas effunditur David;</hi> What means <hi>David</hi> to take on in this manner? whereas to all mens thinking he had matter of exceeding great joy, triumph, and thankſgiving. <hi>Naturam expellas furca licet tamen uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> re<g ref="char:EOLhyphen"/>curret:</hi> It is an old ſaying, Murther will out; and it is a true ſaying, Nature will not be hid. <hi>David</hi> lookt upon the perſon of <hi>Abſhlon, Oculo affectus,</hi> and <hi>Oculo ſenſus,</hi> with the eye of the body, and eye of naturall affection. Upon his converlation he onely lookt with the eye of un<g ref="char:EOLhyphen"/>derſtanding, and that of grace; we are more moved for the loſſe of that wherewith the bodily ſence and naturall affection are delight<g ref="char:EOLhyphen"/>ed, then we rejoyce for the removall out of the way that, whereby Gods Law is ſlighted, and humane ſociety violated.</p>
+            <p>Again, <hi>David</hi> although a man after Gods own heart, yet <hi>David</hi> had the ſeeds of corrupt nature in him ſtill; it is <hi>Proprium quarto modo</hi> to nature, <hi>Quod Deus vult, nolles</hi> to antipodize God, to walk with our heels againſt his head. A third cauſe of <hi>Davids</hi> ſo lamenting the death of his ſon <hi>Abſolon,</hi> although ſo ill deſerving at his hand, was queſtion<g ref="char:EOLhyphen"/>leſſe this: <hi>David</hi> did well conceive (as being a Prophet) the horrible<g ref="char:EOLhyphen"/>neſſe of <hi>Abſolons</hi> offence, it being unnaturall rebellion, which God de<g ref="char:EOLhyphen"/>teſteth as witchcraft, which witchcraft is an abſolute deſerting of God, and cleaving to the devill his profeſt enemie: <hi>David</hi> therfore weighing the crime, as alſo the manner of his ſons puniſhment for it, how that he was taken away in his ſin, having no time given him to repent him of it, might juſtly fear the loſſe of ſoul as well as body, which to <hi>David</hi> could not but be the ſubject of incredible grief. Now let's compare the parallel of Sects and hereſies in their accuſtomed proceedings with this example of <hi>Abſolon:</hi> do not the Sectaries firſt ſhew the Syrens face? can any make more outward ſhew of piety, pu<g ref="char:EOLhyphen"/>rity, ſanctity of life then they? Do any talk more of God, of truth, of
+<pb n="7" facs="tcp:113966:4"/>ſtanding for the Goſpel of Chriſt? Do they not poſſeſſe all men with the goodneſſe of his matter, of his ſtate in grace, of his undoubted ſhare in heaven in caſe he ſide with them? Do they not humble them<g ref="char:EOLhyphen"/>ſelves to the kiſſing not onely the hands, but the feet of thoſe they de<g ref="char:EOLhyphen"/>ſire to win for their proſelytes? while they are in their minoritie, pre<g ref="char:EOLhyphen"/>tend they to deſire ought elſe ſave to enjoy the freedom of their con<g ref="char:EOLhyphen"/>ſciences in the profeſſion of the truth of Chriſt? Term they not them<g ref="char:EOLhyphen"/>ſelves the poore deſpiſed flock? Stand they not onely in the gates, but in the ſtreets, corners, alleys of Towns and Cities, of purpoſe to woe and allure ſilly folk unto them? Make they not men beleeve, that if (with <hi>Abſolon</hi>) they were made Judges in the Land, and had the abſo<g ref="char:EOLhyphen"/>lute power of controulling, that all things ſhould be in far better con<g ref="char:EOLhyphen"/>dition? Do they not perſwade that where they rule, God rules, and no where elſe? Do they not ſeem to ſorrow chiefly for our ſorrow, in that none is appointed either to relieve or right us? Have they not of<g ref="char:EOLhyphen"/>ten profeſſed, that they could be content to be made anathema from Chriſt (preſuppoſing more intereſt in him, then perhaps Chriſt him<g ref="char:EOLhyphen"/>ſelf well knows of) ſo that we were but grafted in to him after the manner that they are? Have they not ſubſceptitiouſly ſtole away the heart of the people from the ſupream and undoubtedly lawfull Ma<g ref="char:EOLhyphen"/>giſtrate; <hi>Vellicande, detractando, inſumulando,</hi> by calumniating, ſlander<g ref="char:EOLhyphen"/>ing, falſly reproaching to his government? And now that they are grown to a conſiderable (may I not rather ſay) a formidable partie; after they had obtained liberty to go a ſacrificing (what if a man ſhould ſay a whoring, were it any hurt think you?) after their own inventions: and that I may take up that ſaying with a great deal more juſt reaſon for Chriſt, then ever the Scribes and Phariſees did againſt him, <hi>Behold how the whole world rimneth after them:</hi> Now, I ſay, that they are grown to this height, how do they look upon us now? marry now as riſeth their good, ſo riſeth their blood; the viſard is off now: they muſt ſay now, <hi>Et flectere ſi nequeum ſuperos Acherante mo<g ref="char:EOLhyphen"/>vebunt;</hi> all ſhall topſi turvie before any ſhall marre them: they have no part in <hi>David,</hi> (they) nor portion in the ſon of <hi>Jeſſe:</hi> Every man of their new Iſrael to his tent: they know full well that if a lawfull King and lawfull Government be once eſtabliſhed, a joyfull calme muſt needs enſue, and put an end to theſe our ſo long continued tempeſts: this name of peace is a very <hi>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll:</hi> to them: they fear right well, that the eſtabliſhing of that will be their downfall; the Dagon of their
+<pb n="8" facs="tcp:113966:5"/>not orious purpoſes muſt needs fall before Gods Ark of peace, they will none of it therefore: it ſtrikes at the root licentious Anarchies keep him out, cry they, while he is out; they that have now the ma<g ref="char:EOLhyphen"/>naging of the Kingdom ſhould do well never to truſt (him) more, or to ſuffer him to have any thing more to do in it: and theſe men have ſtopt the tyde (with their powerfull although pernicious influence) of our (not long ſince) ſtreaming joyes, if not quite turned it: doth it not hence appear, that Schiſme is up and down Abſolonniſme, both in Prologue and Play. Indeed I muſt needs confeſſe, that in th'epilogue there may be ſome difference, for we read that <hi>Abſolon</hi> for his deteſta<g ref="char:EOLhyphen"/>ble rebellion againſt his own Father, and his King, was hang'd up by the haire of his head; but the haire of theſe men is ſomewhat of the ſhorteſt for that purpoſe; ſo that of neceſſitie uſe muſt be made of an<g ref="char:EOLhyphen"/>other thing. But ſeeing that theſe wiſe men ſtill bear ſuch a ſtroak, and can hinder the current of our long hop'd for quiet, without being checkt or chid for it, nay which with confidence in the fact, it pre<g ref="char:EOLhyphen"/>ſages to me that God hath ſtill a controverſie with us; that God who is the God of peace, and ſtiles none of his ſervants (whatſoever graces they have been otherwiſe endowed with) the children of God, ſave onely the peace-makers; I fear, I ſay, that this God of peace doth not yet hold us worthy of ſo great, and ſo an ineſtimable benefit as is that of peace: but that by reaſon of our grievous ſins (a catalogue where<g ref="char:EOLhyphen"/>of follows) <hi>His anger is not turned away from us, but that his arm it ſtretched out ſtill.</hi> Iſa. 9.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
